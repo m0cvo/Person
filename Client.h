@@ -14,7 +14,7 @@ public:
 		int mobile[12];
 	}*/
 
-	string firstname, lastName, sex;
+	string firstname, lastName;
 	int mobile;
 };
 
