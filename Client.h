@@ -8,6 +8,6 @@ class Client
 {
 public:	
 	string firstname, lastName;
-	long mobile;
+	long long mobile = 0;
 };
 
