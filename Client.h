@@ -15,6 +15,6 @@ public:
 	}*/
 
 	string firstname, lastName;
-	int mobile;
+	long mobile;
 };
 

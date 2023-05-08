@@ -37,7 +37,7 @@ int main()
     //Client is a class created elsewhere in Client.h so we creqate an instance here a name it c.
     Client c;
     string name = "";
-    int num = 0;
+    long num = 0;
 
     //The details can then be entered for the client class
     cout << "\nPlease enter client details:" << endl;
